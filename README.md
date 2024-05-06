@@ -21,4 +21,4 @@
  <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-![snake](https://github.com/cauamelazzo/cauamelazzo/blob/main/.github/workflows/snake.yml)
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
