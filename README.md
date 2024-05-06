@@ -20,3 +20,5 @@
  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
  <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/cauamelazzo/cauamelazzo/blob/output/github-contribution-grid-snake.svg)
